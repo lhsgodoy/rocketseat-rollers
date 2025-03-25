@@ -43,7 +43,7 @@ section.hero {
                 max-width: 5.5rem;
                 top: 30%;
                 z-index: 0;
-                transform: translateX(500%);
+                transform: translateX(1500%);
                 animation: slideIn 2s 800ms ease both ;
                 
                  }
